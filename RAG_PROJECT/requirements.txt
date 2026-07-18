@@ -1,0 +1,7 @@
+openai-whisper
+faiss-cpu
+pandas
+numpy
+requests
+google-genai
+python-dotenv
